@@ -1,0 +1,33 @@
+Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
+C1	1	10uF				Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder	~
+C2,C6,C9	3	0.1uF				Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder	~
+C3	1	22uf				Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder	~
+C4	1	10uf				Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder	~
+C5	1	0.1uF				Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder	~
+C7	1	330uF/50v				Capacitor_SMD:CP_Elec_3x5.4	~
+C8,C10	2	1uF				Capacitor_SMD:C_0402_1005Metric	~
+C11	1	330uF/25V				Capacitor_SMD:CP_Elec_3x5.4	~
+C12	1	33nF				Capacitor_SMD:C_0402_1005Metric	~
+D1	1	12v				Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder	~
+D2	1	red				LED_SMD:LED_0201_0603Metric	~
+D3	1	MBRD1045G				Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder	~
+D4,D5	2	red				LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder	~
+J1	1	Conn_01x18_Male				Connector_PinSocket_1.00mm:PinSocket_1x18_P1.00mm_Vertical	~
+J2	1	Conn_01x14_Male				Connector_PinSocket_1.00mm:PinSocket_1x14_P1.00mm_Vertical	~
+J18	1	Conn_01x05_Male				Connector_Hirose:Hirose_DF13-05P-1.25DSA_1x05_P1.25mm_Vertical	~
+L1	1	47uH/5A				Inductor_THT:L_Axial_L5.3mm_D2.2mm_P7.62mm_Horizontal_Vishay_IM-1	~
+Q1	1	Q_PMOS_GDS				Package_TO_SOT_SMD:SOT-23W	~
+R1	1	10k				Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder	~
+R2,R3,R4,R5	4	10k				Resistor_SMD:R_2010_5025Metric	~
+R6	1	500				Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder	~
+R7	1	10K				Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder	~
+R8	1	1K				Resistor_SMD:R_2010_5025Metric_Pad1.40x2.65mm_HandSolder	~
+R9	1	500				Resistor_SMD:R_0805_2012Metric	~
+R10	1	65 R				Resistor_SMD:R_0805_2012Metric	~
+SW1	1	reset				Button_Switch_THT:SW_PUSH_6mm_H4.3mm	~
+SW2	1	boot				Button_Switch_THT:SW_PUSH_6mm_H4.3mm	~
+TP1	1	+ BAT -				TestPoint:TestPoint_2Pads_Pitch5.08mm_Drill1.3mm	~
+trim1	1	R_Potentiometer_Trim_US				Potentiometer_SMD:Potentiometer_Bourns_3214X_Vertical	~
+U1	1	LT1762-3				Package_SO:MSOP-8_3x3mm_P0.65mm	https://www.analog.com/media/en/technical-documentation/data-sheets/LT1762.pdf
+U2	1	ESP32-S2-WROVER-I				My_Project.pretty:My_Project.pretty	https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf
+U3	1	buck ic				XL4015 _foot:CONV_XL4015	
