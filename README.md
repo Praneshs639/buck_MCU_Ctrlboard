@@ -53,11 +53,3 @@ Assemble components according to the BOM.
 Program the microcontroller if required.
 
 Test the output voltage and performance.
-
-Author
-
-Pranesh S
-
-License
-
-MIT License
