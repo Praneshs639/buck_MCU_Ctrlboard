@@ -46,10 +46,3 @@ Tools Used
 
 KiCad (PCB Design)
 
-Use the provided Gerber files to order PCB fabrication.
-
-Assemble components according to the BOM.
-
-Program the microcontroller if required.
-
-Test the output voltage and performance.
